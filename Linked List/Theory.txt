@@ -1,0 +1,13 @@
+- Linked List is a similar data structure like Array but it stores data in non-contigous location. 
+- The size of the linked list is not fixed it can be increased or decreased as per the requirements. 
+
+The first element of linked list is called Head. It contains the address of the second element and similarly the second will have the address
+the third element. The last element of the linked list is called Tail. 
+
+In summary, each element of the linked list contains the address of the element coming after it. 
+
+Uses:- 
+1. Linked list can be used in implementing stack/queue data structures. 
+2. In real life, it's used in browser. 
+
+To create an element for linked list we need to define a self-define data type using Struct in C++. 
