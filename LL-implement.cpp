@@ -34,6 +34,7 @@ int main(){
 
     }
     
+    //Traversal
     current = head; 
     while (current != nullptr){
         cout << "Value: " << current->data <<"\n";
