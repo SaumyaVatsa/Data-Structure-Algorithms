@@ -46,7 +46,6 @@ int main(){
     }
 
     head = deleteTail(head);
-    head = deleteTail(head);
 
     current = head;
     while(current != nullptr){
